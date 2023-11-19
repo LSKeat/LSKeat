@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lee Soon Keat.
 - 👀 I’m interested in Programming.
 - 🚀 I'm from Malaysia.
-- 🌱 I’m currently learning Computer Science in USM.
+- 🌱 I’m currently study Computer Science (Intelligent Computing) in Uiversiti Sains Malaysia.
 - 📫 Reach me at lskeat@student.usm.my
 
 <!---
